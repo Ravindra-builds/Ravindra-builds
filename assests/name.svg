@@ -1,0 +1,21 @@
+<svg width="520" height="80" viewBox="0 0 520 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FDE68A"/>
+      <stop offset="35%" stop-color="#FBBF24"/>
+      <stop offset="65%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="260"
+    y="50"
+    text-anchor="middle"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="40"
+    font-weight="700"
+    fill="url(#nameGrad)">
+    Ravindra Yadav
+  </text>
+</svg>
