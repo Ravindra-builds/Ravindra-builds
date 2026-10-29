@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="68" viewBox="0 0 1000 68" role="img" aria-labelledby="title desc">
+  <title id="title">AI &amp; Full-Stack Developer</title>
+  <desc id="desc">A prominent AI and full-stack developer role heading in light gray with a golden amber ampersand.</desc>
+  <rect width="1000" height="68" fill="none"/>
+  <text x="500" y="47" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="0.2">
+    <tspan fill="#E5E7EB">AI </tspan><tspan fill="#F59E0B">&amp;</tspan><tspan fill="#E5E7EB"> Full-Stack Developer</tspan>
+  </text>
+</svg>
