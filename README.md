@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E0F12,45:B45309,75:F59E0B,100:0E0F12&height=120&section=header" width="100%" />
 
-<img src="./assets/name.svg" width="420" alt="Ravindra Yadav"/>
+<img src="./assets/readme-title.svg" width="70%" alt="Hey, I'm Ravindra Yadav 👋" />
 
-### AI & Full-Stack Developer
+<img src="./assets/readme-role.svg" width="70%" alt="AI & Full-Stack Developer" />
 
 Building AI-powered products, intelligent workflows, and full-stack applications.
 
 <a href="https://ravindrayadav.online">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+and+shipping+AI+products;Exploring+LLM+agents%2C+RAG%2C+and+memory;Full-stack+development+with+Next.js+and+Node.js;1st+Place+%40+Martinovation+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=F59E0B&center=true&vCenter=true&width=650&lines=Building+and+shipping+AI+products;Exploring+LLM+agents%2C+RAG%2C+and+memory;Full-stack+development+with+Next.js+and+Node.js;1st+Place+%40+Martinovation+2026" alt="Typing SVG" />
 </a>
 
 <p>
@@ -23,7 +23,7 @@ Building AI-powered products, intelligent workflows, and full-stack applications
 
 ---
 
-## 👋 About Me
+## 👤 About Me
 
 I'm a **BCA student and software developer** interested in building practical software and understanding how things work under the hood.
 
