@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="100" viewBox="0 0 1000 100" role="img" aria-labelledby="title desc">
+  <title id="title">Hey, I'm Ravindra Yadav</title>
+  <desc id="desc">A large centered greeting, with Ravindra Yadav in golden amber and the greeting and waving hand in light gray.</desc>
+  <rect width="1000" height="100" fill="none"/>
+  <text x="500" y="62" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="650" letter-spacing="-0.7">
+    <tspan fill="#E5E7EB">Hey, I'm </tspan><tspan fill="#F59E0B">Ravindra Yadav</tspan><tspan fill="#E5E7EB"> 👋</tspan>
+  </text>
+</svg>
